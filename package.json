@@ -1,0 +1,11 @@
+﻿{
+    "version":  "0.1.0",
+    "name":  "otto-ai-security-engine",
+    "description":  "Security policy, approval, and permission enforcement for Otto AI agents.",
+    "scripts":  {
+                    "test":  "node --test",
+                    "build":  "node --check src/index.js"
+                },
+    "type":  "module",
+    "private":  true
+}
